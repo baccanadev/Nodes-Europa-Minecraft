@@ -8,5 +8,9 @@
 <br>
 <p>foi esse o mapa que me baseei: https://www.planetminecraft.com/project/1-924-scale-earth-map-4909390/</p>
 <img width="719" height="368" alt="mundiakdmk" src="https://github.com/user-attachments/assets/d7b0d51e-cfeb-4cf6-a63c-7ac71b8645d8" />
+<br>
+<p>Abaixo, veja meu desenho:</p>
+<img width="810" height="632" alt="mdkmd" src="https://github.com/user-attachments/assets/7e164763-c6ad-4565-ac28-b569320f7cd5" />
+
 
 
